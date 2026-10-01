@@ -1,0 +1,11 @@
+# C++ Build directories
+obj/
+bin/
+
+# Executables and compiled objects
+*.exe
+*.o
+*.out
+
+# Python generated model weights
+model_weights.bin
